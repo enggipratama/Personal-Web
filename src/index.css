@@ -32,8 +32,8 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  font-size: 1.5em;
+  line-height: 0.1;
 }
 
 button {
@@ -66,4 +66,11 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+.footer{
+  padding: 0rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
