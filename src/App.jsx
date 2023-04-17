@@ -21,6 +21,12 @@ function App() {
         >
           <button variant="outlined">Add Me at DISCORD </button>
         </a>
+        <a
+          href="https://www.youtube.com/watch?v=_yjcAnHbUgo&t=6s"
+          target="_blank"
+        >
+          <button variant="outlined">YOUTUBE</button>
+        </a>
         {/* <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p> */}
